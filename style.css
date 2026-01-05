@@ -1,0 +1,15 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  background: #f2f3f6;
+}
+
+.timer-box {
+  background: #fff;
+  padding: 20px;
+  text-align: center;
+  border-radius: 6px;
+}
